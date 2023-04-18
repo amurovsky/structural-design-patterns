@@ -7,6 +7,7 @@
  - `Lizard`: Nos provee la habilidad de `arrastrar(crawl)`al igual que una propiedad para obtener la `edad`
  - `Dragon`: Será nuestra clase `decorada`, en la cual usaremos nuestra clase `Bird` y `Lizard` para dotar al `dragon` la habilidad de `volar` y `arrastrar`
 
+ `NOTA`: Presta especial cuidado a la propiedad `age` ya que de ella depende su capacidad de `volar` y `arrastrar`
 **/
 
 class Dragon {
